@@ -1,4 +1,4 @@
-# 🏄‍♂️ Mesheal D. Somah Sr.
+# 👨‍💻 Mesheal D. Somah Sr.
 
 **`A little bit about ME`**
 
