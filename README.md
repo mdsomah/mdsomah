@@ -1,4 +1,4 @@
-<h1 align="center">Mesheal D. Somah Sr.</h1>
+<h1 align="center">👨‍💻 Mesheal D. Somah Sr.</h1>
 
 **`About ME`**
 
