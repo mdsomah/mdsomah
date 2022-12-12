@@ -1,6 +1,6 @@
 # 👨‍💻 Mesheal D. Somah Sr.
 
-**`A little bit about ME`**
+**`About ME`**
 
 I am a <strong><em>Full Stack Designer, Developer, Engineer and Architect.</em></strong>
 
