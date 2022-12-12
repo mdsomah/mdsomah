@@ -71,9 +71,9 @@ I also communicate well and negotiate Business Logic.
 <br />
 <br />
 
-### 📊 Stats
+### 📊 Most Used
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
+![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 <br />
 <br />
 
