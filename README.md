@@ -2,7 +2,7 @@
 
 **`A little bit about ME`**
 
-I am a Full Stack Designer, Developer, Engineer and Architect.
+I am a Full Stack <mark>Designer</mark>, Developer, Engineer and Architect.
 
 <h2>What I Do:</h2>
 
