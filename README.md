@@ -34,6 +34,8 @@ I also communicate well and negotiate Business Logic.
 </p>
 
 <hr />
+<br />
+<br />
 
 ### 🧰 Programming Languages, Frameworks and Tools
 
