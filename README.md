@@ -4,35 +4,23 @@
 
 I am a Full Stack Designer, Developer, Engineer and Architect.
 
-<h3>What I Do:</h3>
+<h2>What I Do:</h2>
 
 <h3>As Designer:</h3> 
 I communicate with client, conduct research of product, create Wireframe and High-Fidelity Mockups, User Experience Design (UX), User Interface Design (UI), Visual Design, and Product Design using tools like; Figma, Sketch and Adobe XD (Experience Design). 
 
-AS Developer: 
+<h3>AS Developer:</h3> 
 I transformed High-Fidelity mockups design into visual design by creating the Front-End, Back-End and Databases of a Website, Web Application and Mobile App.
 
-As Engineer: 
+<h3>As Engineer:</h3> 
 I can deploy a complete product utilizing Cloud Services, Virtualization, Containerization with Docker, Kubernetes and CI/CD using Agile Methodology and DevOps Approach.
 
-As Architect: 
+<h3>As Architect:</h3> 
 I consult client’s and advice on System Architecture design and Infrastructure like Micro-Services, Monolithic Design, Single Page Application (SPA), Multi-Page Application (MPA) or the Hybrid of both and so on… 
 I also communicate well and negotiate Business Logic.
 
 
-My Skills: 
-
-Front-End - HTML5, CSS3, JavaScript ES6+, Bootstrap 4, Semantic UI, Materialize CSS, Foundation, Bulma, WordPress, Ajax, JSON, AppML, React, Angular, Vue, jQuery, Redux, RxJs, Vuex, Git, Git Hub, and Webpack. 
-
-Back-End – PHP, C#, .Net-Core & ASP.Net-Core, Laravel, Next.JS, Express.JS and Node.JS.
-
-Databases – NoSQL & SQL, Mongo DB, MySQL, Microsoft SQL Server, Google Fire Base, SQLite, and CouchDB.
-
-DevOps - CI/CD, Jenkins, Docker Swarm, VMware, Windows Server, Solaris, Ubuntu, CentOS, Apache, IIS, Tomcat, Ngnix, Caddy, Kubernetes, Network Administration, System Administration and so on…
-
-Template Engine – Razor, Pug, Handlebars and Blade
-
-Mobile Apps – React Native and Xamarin
+<hr>
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
