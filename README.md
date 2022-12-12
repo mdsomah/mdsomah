@@ -22,6 +22,9 @@ I can deploy a complete product utilizing Cloud Services, Virtualization, Contai
 I consult client’s and advice on System Architecture design and Infrastructure like Micro-Services, Monolithic Design, Single Page Application (SPA), Multi-Page Application (MPA) or the Hybrid of both and so on… 
 I also communicate well and negotiate Business Logic.
 
+<br />
+<br />
+
 
 <hr />
 
