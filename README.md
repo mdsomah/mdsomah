@@ -73,9 +73,9 @@ I also communicate well and negotiate Business Logic.
 
 ### 📊 Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsomah&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=mdsomah&theme=gruvbox&border_radius=4.5) -->
 
 #
 
