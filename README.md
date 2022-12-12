@@ -1,6 +1,4 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas?utm_source=Clipboard_Shot&utm_campaign=kunchevsky&utm_content=Programmer%20Thomas&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=kunchevsky&utm_content=Programmer%20Thomas&utm_medium=Social_Share">
-
 
 <h1 align="center">👨‍💻 Mesheal D. Somah Sr.</h1>
 
