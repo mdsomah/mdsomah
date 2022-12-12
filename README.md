@@ -77,7 +77,7 @@ I also communicate well and negotiate Business Logic.
 <br />
 <br />
 
-### 📊 Stats
+### 📊 Streak
 
 ![My GitHub Streak](https://streak-stats.demolab.com?user=mdsomah&theme=gruvbox&border_radius=4.5)
 
