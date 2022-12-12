@@ -71,6 +71,11 @@ I also communicate well and negotiate Business Logic.
 <br />
 <br />
 
+### 📊 Stats
+
+![My GitHub Activities](https://activity-graph.herokuapp.com/graph?username=mdsomah&&theme=xcode)
+<br />
+<br />
 
 ### 📊 Stats
 
