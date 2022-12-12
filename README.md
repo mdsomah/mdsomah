@@ -1,5 +1,5 @@
 # 👨‍💻 Mesheal D. Somah Sr.
-<link rel="stylesheet" href="https://unpkg.com/tippy.js@5/dist/backdrop.css" />
+
 **`A little bit about ME`**
 
 I am a <strong><em>Full Stack Designer, Developer, Engineer and Architect.</em></strong>
@@ -37,7 +37,7 @@ I also communicate well and negotiate Business Logic.
 
 ### 🧰 Programming Languages, Frameworks and Tools
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" data-tippy-content="Tooltip"/>
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -85,6 +85,3 @@ I also communicate well and negotiate Business Logic.
 
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/fknight
-
-<script src="https://unpkg.com/popper.js@1"></script>
-<script src="https://unpkg.com/tippy.js@5"></script>
