@@ -56,7 +56,7 @@ I also communicate well and negotiate Business Logic.
 
 #
 
-### 📺 Latest YouTube Videos
+<!-- ### 📺 Latest YouTube Videos -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- [![How to Improve Efficiency as a Software Developer](https://ytcards.demolab.com/?id=Ov1tuHS4uNw&title=How+to+Improve+Efficiency+as+a+Software+Developer&lang=en&timestamp=1669140023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=535 "How to Improve Efficiency as a Software Developer")](https://www.youtube.com/watch?v=Ov1tuHS4uNw)
@@ -73,7 +73,7 @@ I also communicate well and negotiate Business Logic.
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
