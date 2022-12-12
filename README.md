@@ -65,6 +65,8 @@ I also communicate well and negotiate Business Logic.
 <img align="left" alt="Xamarin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" />
 <br />
 <br />
+<br />
+<br />
 
 
 ### 📊 Stats
