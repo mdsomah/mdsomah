@@ -73,7 +73,7 @@ I also communicate well and negotiate Business Logic.
 
 ### 📊 Most Used
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mdsomah&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 <br />
 <br />
 
