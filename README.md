@@ -29,7 +29,7 @@ I also communicate well and negotiate Business Logic.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mesheal-d-somah-sr-1b988176/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mdsomah/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" /></a>
 <a href="https://twitter.com/mdsomah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" width="40" /></a>
 </p>
 
