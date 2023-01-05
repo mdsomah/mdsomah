@@ -1,6 +1,4 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mdsomah" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lr.linkedin.com/in/mdsomah?trk=profile-badge">Mesheal D. Somah Sr.</a></div>
-              
 
 <h1 align="center">👨‍💻 Mesheal D. Somah Sr.</h1>
 
@@ -34,6 +32,7 @@ I also communicate well and negotiate Business Logic.
 <a href="https://www.linkedin.com/in/mdsomah/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" /></a>
 <a href="https://twitter.com/mdsomah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" width="40" /></a>
 </p>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mdsomah" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lr.linkedin.com/in/mdsomah?trk=profile-badge">Mesheal D. Somah Sr.</a></div>
 
 <hr />
 <br />
