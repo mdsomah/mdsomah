@@ -98,6 +98,8 @@ I also communicate well and negotiate Business Logic.
 
 ![](https://komarev.com/ghpvc/?username=mdsomah&color=orange)
 
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mdsomah&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
+
 <details>
  <summary><h3>👨‍💻 My Programming Journey</h3></summary>
 Along the way of transitioning into programming was a bit challenging at first and I needed to understand a lot of concepts and best practices. But with the help of platform like W3Schools, it make my path a bit easier. W3Schools is a great platform for learning and I would recommend it to any beginner learning how to code. It helps me a lot in transitioning. They are doing an amazing job providing up to date contents for free and all of their contents are very simple and understandable. Initially I struggle with book like Eloquent JavaScript but after reading the JavaScript contents on W3Schools and coming back to it was like a breeze.
