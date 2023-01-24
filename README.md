@@ -96,7 +96,7 @@ I also communicate well and negotiate Business Logic.
 
 ![My GitHub Streak](https://streak-stats.demolab.com?user=mdsomah&theme=gruvbox&border_radius=4.5)
 
-![](https://komarev.com/ghpvc/?username=mdsomah&color=orange)
+![](https://komarev.com/ghpvc/?username=mdsomah&color=crisome)
 
 <details>
  <summary><h3>👨‍💻 My Programming Journey</h3></summary>
