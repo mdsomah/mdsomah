@@ -88,7 +88,7 @@ I also communicate well and negotiate Business Logic.
 
 ### 📊 Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mdsomah&count_private=true&theme=gruvbox&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mdsomah&count_private=true&theme=gruvbox&show_icons=true)]()
 <br />
 <br />
 
