@@ -95,10 +95,14 @@ I also communicate well and negotiate Business Logic.
 ### 📊 Streak
 
 ![My GitHub Streak](https://streak-stats.demolab.com?user=mdsomah&theme=gruvbox&border_radius=4.5)
+<br />
+<br />
 
 ![](https://komarev.com/ghpvc/?username=mdsomah&color=orange)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mdsomah&theme=github)](https://github.com/mdsomah/github-readme-activity-graph)
+<br />
+<br />
 
 <details>
  <summary><h3>👨‍💻 My Programming Journey</h3></summary>
