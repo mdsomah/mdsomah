@@ -98,7 +98,7 @@ I also communicate well and negotiate Business Logic.
 
 ![](https://komarev.com/ghpvc/?username=mdsomah&color=orange)
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mdsomah&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mdsomah&theme=dracula)](https://github.com/mdsomah/github-readme-activity-graph)
 
 <details>
  <summary><h3>👨‍💻 My Programming Journey</h3></summary>
