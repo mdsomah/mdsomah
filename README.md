@@ -77,13 +77,13 @@ I also communicate well and negotiate Business Logic.
 
 ### 📊 Most Used
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mdsomah&show_icons=true&locale=en&layout=compact&theme=gruvbox)
+![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?user=mdsomah&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 <br />
 <br />
 
 ### 📊 Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsomah&show_icons=true&theme=gruvbox)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?user=mdsomah&show_icons=true&theme=gruvbox)
 <br />
 <br />
 
