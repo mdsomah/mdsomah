@@ -75,7 +75,9 @@ I also communicate well and negotiate Business Logic.
 <br />
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdsomah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mdsomah&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+<br />
+<br />
 
 ### 📊 Most Used
 
