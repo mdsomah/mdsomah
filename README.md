@@ -102,7 +102,7 @@ I also communicate well and negotiate Business Logic.
 <br />
 <br />
 
-[![Mesheal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mdsomah&theme=github)](https://github.com/mdsomah/github-readme-activity-graph)
+
 <br />
 <br />
 
